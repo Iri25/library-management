@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Seminar5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UserInterface.cpp
+  Seminar5.vcxproj -> E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 6\Seminar 6 - Adriana\Debug\Seminar6.exe
