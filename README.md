@@ -1,5 +1,7 @@
 # library-management
-C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in memory. Validations for entity data and tests for functions were performed. The main class is Applications. The user interface is console type. Key concepts are encapsulation, inheritance, polymorphism, validations, exceptions.
+C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in memory. Several tests for functionality and data validation have been created. The main class is Applications. Interaction with the user is done from the console.
+
+Key concepts are encapsulation, inheritance, polymorphism, validations and exceptions.
 
 Application for managing a library with literary volumes. There are two types of volumes in the library: volumes of short stories (author, title, publisher) and volumes of poems (author, title, number of poems).
 
