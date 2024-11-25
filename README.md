@@ -3,6 +3,8 @@ C++ application with a 4-layered architecture: data access layer (Domain), persi
 
 Key concepts are encapsulation, inheritance, polymorphism, validations and exceptions.
 
+## Requirements
+
 Application for managing a library with literary volumes. There are two types of volumes in the library: volumes of short stories (author, title, publisher) and volumes of poems (author, title, number of poems).
 
 The application helps the librarian in the management of volumes, operations such as:
