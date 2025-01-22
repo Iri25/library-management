@@ -1,7 +1,18 @@
 # library-management
-C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in memory. Several tests for functionality and data validation have been created. The main class is Applications. Interaction with the user is done from the console.
+C++ application with a 4-layered architecture: 
+- data access layer (`Domain`)
+- persistence layer (`Repository`)
+- business layer (`Service`)
+- presentation layer (`UserInterface`)
 
-Key concepts are encapsulation, inheritance, polymorphism, validations and exceptions.
+The data is saved in memory. Several tests for functionality and data validation have been created. The main class is Applications. Interaction with the user is done from the console.
+
+## Key concepts:
+- encapsulation
+- inheritance
+- polymorphism
+- validations
+- exceptions
 
 ## Requirements
 
